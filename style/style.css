@@ -1,0 +1,148 @@
+#background {
+    background-color: #E5E478;
+}
+
+.outer {
+    background-color: white;
+    height: 303px;
+    width: 303px;
+    position: relative;
+
+    margin: auto;
+
+}
+
+.blue {
+    background-color: #0002F9;
+    left: 103px;
+    top: 3px;
+
+}
+
+.red {
+    background-color: #FC0100;
+    left: 3px;
+    top: 3px;
+}
+
+.green {
+    background-color: #008306;
+    right: 3px;
+    top: 3px;
+}
+
+.yellow {
+    background-color: #FEFF05;
+    left: 3px;
+    top: 103px;
+}
+
+.black {
+    background-color: #000000;
+    left: 103px;
+    top: 103px;
+}
+
+.orange {
+    background-color: #F6AA00;
+    right: 3px;
+    top: 103px;
+}
+
+.violet {
+    background-color: #810086;
+    left: 3px;
+    bottom: 3px;
+}
+
+.grey {
+    background-color: #808080;
+    left: 103px;
+    bottom: 3px;
+}
+
+.pink {
+    background-color: #FDBEC3;
+    right: 3px;
+    bottom: 3px;
+}
+
+.inner {
+    height: 97px;
+    width: 97px;
+    position: absolute;
+    z-index: 1;
+
+}
+
+.rpink {
+
+    background-color: #FDBEC3;
+    top: 25px;
+    left: 25px;
+}
+
+.rgrey {
+    background-color: #80807D;
+    top: 25px;
+    left: 25px;
+
+}
+
+.rviolet {
+    background-color: #870082;
+    top: 25px;
+    left: 25px;
+
+}
+
+.rgreen {
+    background-color: #008001;
+    top: 25px;
+    left: 25px;
+
+}
+
+.rred {
+    background-color: #FE0000;
+    top: 25px;
+    left: 25px;
+
+}
+
+.rblue {
+    background-color: #0006FB;
+    top: 25px;
+    left: 25px;
+
+}
+
+.rorange {
+    background-color: #FEA21B;
+    top: 25px;
+    left: 25px;
+}
+
+.ryellow {
+    background-color: #FFFB0A;
+    top: 25px;
+    left: 25px;
+
+}
+
+.rblack {
+    background-color: #000200;
+    top: 25px;
+    left: 25px;
+
+}
+
+.radius {
+    position: absolute;
+    z-index: 1;
+    height: 50px;
+    width: 50px;
+
+    border: 1px solid;
+    border-radius: 50%;
+}
